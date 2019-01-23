@@ -1,4 +1,4 @@
 node_modules
 dist
-yarn-error.json
-package-error.json
+yarn-error.log
+package-error.log
