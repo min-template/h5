@@ -2,7 +2,10 @@
   "name": "h5",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:min-template/h5.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/min-template/h5.git"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev node build/app.js",
